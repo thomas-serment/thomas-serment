@@ -1,8 +1,9 @@
 {
-    "name": "ThomasTSWD",
-    "version": "1.2.0",
-    "description": "Tests on readme",
-    "scripts": {
-        "start": "node updateReadme.js"
-    }
+  "name": "thomastswd",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Profil GitHub avec une citation française mise à jour chaque lundi",
+  "scripts": {
+    "start": "node update-quote.js"
+  }
 }
