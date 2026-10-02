@@ -1,0 +1,44 @@
+# Met à jour la citation du README chaque lundi.
+# Settings > Actions > General > Workflow permissions : Read and write
+
+name: Weekly Quote
+
+on:
+  schedule:
+    - cron: "0 7 * * 1" # Chaque lundi à 07:00 UTC (8h ou 9h à Paris)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - update-quote.js
+      - .github/workflows/weekly-quote.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-quote
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Update README with the weekly quote
+        run: node update-quote.js
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "Aucun changement."
+            exit 0
+          fi
+          git config user.name "ThomasTSWD"
+          git config user.email "hello@tswd.fr"
+          git commit -am "chore: update weekly quote"
+          git push
