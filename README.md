@@ -11,7 +11,7 @@ Mon Bac+5 **Expert DevOps** m'ouvre aujourd'hui de nouvelles portes : administra
 
 Côté DevOps, les pipelines CI/CD et l'infra, ça se passe du côté de GitLab.
 
-[![GitLab](https://img.shields.io/badge/GitLab-TommyTSWD-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/TommyTSWD)
+[![GitLab](https://img.shields.io/badge/GitLab-thomas--serment-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/thomas-serment)
 
 ---
 
