@@ -38,7 +38,7 @@ jobs:
             echo "Aucun changement."
             exit 0
           fi
-          git config user.name "ThomasTSWD"
+          git config user.name "thomas-serment"
           git config user.email "hello@tswd.fr"
           git commit -am "chore: update weekly quote"
           git push

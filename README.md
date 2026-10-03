@@ -19,7 +19,7 @@ Côté DevOps, les pipelines CI/CD et l'infra, ça se passe du côté de GitLab.
 
 [![VS Code](img/badge-vscode.svg)](https://code.visualstudio.com)
 
-J'ai développé plusieurs extensions pour l'enrichir. La plupart sont publiées en release, avec un fichier `.vsix` prêt à installer : vous les trouverez dans [mes dépôts VS Code](https://github.com/ThomasTSWD?tab=repositories&q=vscode).
+J'ai développé plusieurs extensions pour l'enrichir. La plupart sont publiées en release, avec un fichier `.vsix` prêt à installer : vous les trouverez dans [mes dépôts VS Code](https://github.com/thomas-serment?tab=repositories&q=vscode).
 
 ---
 
@@ -33,4 +33,4 @@ J'ai développé plusieurs extensions pour l'enrichir. La plupart sont publiées
 
 <sub>Citations proposées par [citation.lecog.fr](https://citation.lecog.fr)</sub>
 
-[![Weekly Quote](https://github.com/ThomasTSWD/ThomasTSWD/actions/workflows/weekly-quote.yml/badge.svg)](https://github.com/ThomasTSWD/ThomasTSWD/actions/workflows/weekly-quote.yml)
+[![Weekly Quote](https://github.com/thomas-serment/thomas-serment/actions/workflows/weekly-quote.yml/badge.svg)](https://github.com/thomas-serment/thomas-serment/actions/workflows/weekly-quote.yml)
