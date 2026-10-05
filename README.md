@@ -26,7 +26,7 @@ J'ai développé plusieurs extensions pour l'enrichir. La plupart sont publiées
 **Citation de la semaine, mise à jour chaque lundi avec GitHub Actions 💁‍♂️**
 
 <!-- START_QUOTE_SECTION -->
-> « Si le fou persévérait dans sa folie, il rencontrerait la Sagesse. »
+> « Évidence d’aujourd’hui, imagination d’hier. »
 >
 > **William Blake**, *Le Mariage du Ciel et de l'Enfer*
 <!-- END_QUOTE_SECTION -->
