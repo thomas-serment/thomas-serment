@@ -26,9 +26,9 @@ J'ai développé plusieurs extensions pour l'enrichir. La plupart sont publiées
 **Citation de la semaine, mise à jour chaque lundi avec GitHub Actions 💁‍♂️**
 
 <!-- START_QUOTE_SECTION -->
-> « La misère persuade le désespoir. L'orgueil persuade la présomption. L'Incarnation montre à l'homme la grandeur de sa misère par la grandeur du remède qu'il a fallu. »
+> « Le meilleur vin, c’est le plus vieux ; la meilleure eau, c’est la plus neuve. »
 >
-> **Blaise Pascal**, *Pensées*
+> **William Blake**, *Le Mariage du Ciel et de l'Enfer*
 <!-- END_QUOTE_SECTION -->
 
 <sub>Citations proposées par [citation.lecog.fr](https://citation.lecog.fr)</sub>
