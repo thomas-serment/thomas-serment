@@ -26,7 +26,7 @@ J'ai développé plusieurs extensions pour l'enrichir. La plupart sont publiées
 **Citation de la semaine, mise à jour chaque lundi avec GitHub Actions 💁‍♂️**
 
 <!-- START_QUOTE_SECTION -->
-> « Le meilleur vin, c’est le plus vieux ; la meilleure eau, c’est la plus neuve. »
+> « Tout ce qu’il est possible de croire, est un miroir de vérité. »
 >
 > **William Blake**, *Le Mariage du Ciel et de l'Enfer*
 <!-- END_QUOTE_SECTION -->
