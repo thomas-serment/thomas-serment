@@ -26,7 +26,7 @@ J'ai développé plusieurs extensions pour l'enrichir. La plupart sont publiées
 **Citation de la semaine, mise à jour chaque lundi avec GitHub Actions 💁‍♂️**
 
 <!-- START_QUOTE_SECTION -->
-> « Tout ce qu’il est possible de croire, est un miroir de vérité. »
+> « Le fou égoïste et souriant, et le fou morne et renfrogné, seront tenus tous deux pour sages, et serviront de verge et de fléau. »
 >
 > **William Blake**, *Le Mariage du Ciel et de l'Enfer*
 <!-- END_QUOTE_SECTION -->
