@@ -26,9 +26,9 @@ J'ai développé plusieurs extensions pour l'enrichir. La plupart sont publiées
 **Citation de la semaine, mise à jour chaque lundi avec GitHub Actions 💁‍♂️**
 
 <!-- START_QUOTE_SECTION -->
-> « Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre. »
+> « La Prudence est une riche et laide vieille fille à qui l’incapacité fait la cour. »
 >
-> **Blaise Pascal**, *Pensées*
+> **William Blake**, *Le Mariage du Ciel et de l'Enfer*
 <!-- END_QUOTE_SECTION -->
 
 <sub>Citations proposées par [citation.lecog.fr](https://citation.lecog.fr)</sub>
