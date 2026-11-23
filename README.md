@@ -26,7 +26,7 @@ J'ai développé plusieurs extensions pour l'enrichir. La plupart sont publiées
 **Citation de la semaine, mise à jour chaque lundi avec GitHub Actions 💁‍♂️**
 
 <!-- START_QUOTE_SECTION -->
-> « La Prudence est une riche et laide vieille fille à qui l’incapacité fait la cour. »
+> « L’acte le plus sublime, c’est de placer un autre avant soi. »
 >
 > **William Blake**, *Le Mariage du Ciel et de l'Enfer*
 <!-- END_QUOTE_SECTION -->
